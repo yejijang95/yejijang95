@@ -55,4 +55,5 @@ I'm a graduate of the Grace Hopper Program at Fullstack Academy. Prior to making
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"> </a> 
  </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yejijang95&show_icons=true&locale=en" alt="yejijang95" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yejijang95&show_icons=true&locale=en" alt="yejijang95" /></p>
+ -->
