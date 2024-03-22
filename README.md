@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Yeji Jang.</h1>
 <h3 align="center">I'm a software engineer in New York 🍎</h3>
 
-I am currently a Fellow at Formation and graduate of the Grace Hopper Program at Fullstack Academy. I also interned at a start-up. Prior to making the switch to tech, I worked in healthcare administration. I am passionate about combining my communication and collaboration skills to develop audience-oriented applications.
+I am currently a Software Engineering Fellow at Formation and graduate of the Grace Hopper Program at Fullstack Academy. I also interned at a start-up. Prior to making the switch to tech, I worked in healthcare administration. I am passionate about combining my communication and collaboration skills to develop audience-oriented applications.
 
 
 - 👨‍💻 All of my projects are available at [yejijang95.github.io](https://yejijang95.github.io/)
